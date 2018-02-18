@@ -23,7 +23,7 @@
 //uses hardware flow-control?
 #define _Use_RTS_CTS false
 #if _Use_RTS_CTS
-#warning _Use_RTS_CTS ist aktiv!
+#warning _Use_RTS_CTS is active!
 #endif
 
 //Transmission rate (baud rate)

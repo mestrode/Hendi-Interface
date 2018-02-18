@@ -46,7 +46,7 @@ int main(void)
 
 	sei();
 
-	//initialize UART - Interrupt für RX und TX
+	//initialize UART - Interrupt for RX and TX
 	UART_Init();
 	Msg_Send_Version( Main_SWVersion );
 
