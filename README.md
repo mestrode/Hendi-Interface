@@ -15,7 +15,9 @@ There are 5 operation modes, you chose on the control know:
 - remote control (0W, 500W up to 3500W) by RS232 protocol
 - manual mode for easy standalone operation (knob can be used across the whole range, like w/o modification)
 
-see also: https://hobbybrauer.de/forum/viewtopic.php?f=58&t=1732 (german language)
+see also:
+- [further description](description_ger.md) (german language)
+- https://hobbybrauer.de/forum/viewtopic.php?f=58&t=1732 (german language)
 
 ## Hardware
 
